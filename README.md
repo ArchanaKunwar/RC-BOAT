@@ -1,7 +1,6 @@
-# RC Boat — CAD Design (Third Space YSWS)
+# RC Boat — CAD Design 
 
-A fully parametric CAD model of a radio-controlled boat, designed from scratch in **Onshape** as part of [Third Space](https://thirdspace.hackclub.com) — a Hack Club YSWS (You Ship, We Ship) program.
-
+A fully parametric CAD model of a radio-controlled boat, designed from scratch in **Onshape**
 ---
 
 ### Open vs. Closed Assembly
@@ -102,12 +101,6 @@ The design is split so that each team member owns distinct sub-assemblies, makin
 
 This project is licensed under the **MIT License** — free to use, modify, and distribute.
 
-## Acknowledgements
-
-- Hack Club for organizing [Third Space](https://thirdspace.hackclub.com)
-- Lou for the program and feedback
-- The Third Space community for help and huddles
 
 ---
 
-*Made with 🛠️ during Third Space Week 1, September 2026.*
